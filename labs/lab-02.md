@@ -6,7 +6,7 @@
 - **Student:** Paul Estefano Coronado Cáceres
 - **Professor:** Raymond Wong
 - **Course:** CEP 146 - Essential Tooling for Programmers
-- **Scenario:** Building a simple webstie
+- **Scenario:** Building a simple website
 
 ---
 
